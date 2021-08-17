@@ -1,0 +1,72 @@
+head,body{
+	background-color:grey;
+	
+}
+	
+.rahmen{
+	background-color:lightblue;
+	box-shadow:0px 0px 20px 2px black;
+	padding:50px;
+	margin:25px;
+	width:300px;
+	text-align:center;
+	
+}
+	
+.rahmen:hover{
+	box-shadow:0px 0px 10px 4px white;
+		background-color:white;
+
+}
+	
+.alterBildschirm {
+width: 800px;
+height: 600px;
+background:#222222;
+padding:25px;
+border-radius:15px;
+margin:30px auto;
+box-shadow: inset -1px 2px 10px 5px black; 
+opacity:0.8;
+
+font-size:20px;
+
+font-family: Gill Sans,Gill Sans MT,Calibri,sans-serif; 
+color: lightgrey;
+
+
+
+}
+
+.alterBildschirm{
+
+cursor:crosshair;
+
+
+}
+
+.alterBildschirm2 {
+width: 800px;
+height: 600px;
+background:#222222;
+padding:25px;
+border-radius:15px;
+margin:30px auto;
+box-shadow: inset -1px 2px 10px 5px black; 
+opacity:0.8;
+
+font-size:20px;
+font-weight:bold;
+font-family: monospace, courier, terminal;
+color: brown;
+text-shadow: 1px 1px 1px black;
+
+
+}
+
+.alterBildschirm2{
+
+cursor:crosshair;
+
+
+}
